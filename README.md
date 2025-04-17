@@ -47,13 +47,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank">
-    <img src="https://seeklogo.com/images/P/power-bi-logo-737159BFD5-seeklogo.com.png" alt="Power BI" width="40" height="40"/>
+    <img src="[https://seeklogo.com/images/P/power-bi-logo-737159BFD5-seeklogo.com.png](https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000)" alt="Power BI" width="40" height="40"/>
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" width="40" height="40"/>
-  </a>
-  <a href="https://www.ibm.com/products/spss-statistics" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/SPSS_Logo.png" alt="SPSS" width="40" height="40"/>
   </a>
 </p>
 
