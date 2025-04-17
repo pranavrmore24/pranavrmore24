@@ -6,7 +6,7 @@
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif" />
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=morepranav001&label=Profile%20views&color=0e75b6&style=flat" alt="morepranav001" />
+  <img src="https://komarev.com/ghpvc/?username=pranavrmore24&label=Profile%20views&color=0e75b6&style=flat" alt="pranavrmore24" />
 </p>
 
 ---
@@ -47,13 +47,13 @@
 ### 📊 GitHub Stats:
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=morepranav001&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavrmore24&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=morepranav001&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pranavrmore24&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=morepranav001" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavrmore24" alt="GitHub Streak" />
 </p>
