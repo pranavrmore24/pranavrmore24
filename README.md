@@ -26,7 +26,7 @@
 <p align="left">
   <a href="https://linkedin.com/in/pranav-more-49049b237" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:pranavrmore24@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="30" width="30" />
   </a>
