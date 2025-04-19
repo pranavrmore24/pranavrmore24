@@ -12,9 +12,9 @@
 
 ---
 
+### 💫 About Me:
 <img align="right" alt="Data Science" width="400" src="https://www.mygreatlearning.com/blog/wp-content/uploads/2019/09/What-is-data-science-2.jpg" />
 
-### 💫 About Me:
 - 💼 Working on Data Science, Machine Learning, and Analytics Projects  
 - 📊 Love turning data into actionable insights  
 - 🌱 Currently exploring **Deep Learning & Azure ML**  
@@ -22,6 +22,7 @@
 - 📫 Reach me at: pranavrmore24@gmail.com  
 
 ---
+
 
 ### 🌐 Connect with me:
 <p align="left">
