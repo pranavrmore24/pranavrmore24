@@ -12,14 +12,17 @@
 
 ---
 
-### 💫 About Me:
-<img align="right" alt="Data Science" width="400" src="https://www.mygreatlearning.com/blog/wp-content/uploads/2019/09/What-is-data-science-2.jpg" />
+<h3 align="left">💫 About Me:</h3>
 
-- 💼 Working on Data Science, Machine Learning, and Analytics Projects  
-- 📊 Love turning data into actionable insights  
-- 🌱 Currently exploring **Deep Learning & Azure ML**  
-- 💬 Ask me about anything related to **Python, ML, Power BI, SQL**  
-- 📫 Reach me at: pranavrmore24@gmail.com  
+<img align="right" alt="Data Science" width="350" style="margin-left: 20px;" src="https://www.mygreatlearning.com/blog/wp-content/uploads/2019/09/What-is-data-science-2.jpg" />
+
+<ul>
+  <li>💼 Working on Data Science, Machine Learning, and Analytics Projects</li>
+  <li>📊 Love turning data into actionable insights</li>
+  <li>🌱 Currently exploring <strong>Deep Learning & Azure ML</strong></li>
+  <li>💬 Ask me about anything related to <strong>Python, ML, Power BI, SQL</strong></li>
+  <li>📫 Reach me at: pranavrmore24@gmail.com</li>
+</ul>
 
 ---
 
