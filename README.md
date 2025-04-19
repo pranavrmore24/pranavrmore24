@@ -50,7 +50,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" width="40" height="40"/>
+    <img src="[https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Excel_2013-2019_logo.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AMicrosoft_Office_Excel_%25282019%25E2%2580%2593present%2529.svg&psig=AOvVaw3L43QqKtdT9L8ukKlMSJIK&ust=1745159472068000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjUvOWn5IwDFQAAAAAdAAAAABAE)" alt="Excel" width="40" height="40"/>
   </a>
 </p>
 
