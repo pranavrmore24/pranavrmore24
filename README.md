@@ -12,7 +12,7 @@
 
 ---
 
-<img align="right" alt="Coding Guy" width="400" src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.giff" />
+<img align="right" alt="Coding Guy" width="400" src="https://www.dreamstime.com/data-science-analyzing-interpreting-complex-data-projection-virtual-screen-business-technology-concept-data-science-image356665320" />
 
 ### 💫 About Me:
 - 💼 Working on Data Science, Machine Learning, and Analytics Projects  
