@@ -1,6 +1,6 @@
 <!-- Banner or Logo -->
 <p align="center">
-  <img src="https://github.com/morepranav001/morepranav001/blob/main/DS.png" alt="Banner" width="80%"/>
+  <img src="https://github.com/pranavrmore24/pranavrmore24/blob/main/Data Analyst Banner.png" alt="Banner" width="80%"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Pranav More</h1>
